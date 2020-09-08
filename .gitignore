@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AngularPracticeProj/Properties
+/AngularPracticeProj/.gitignore
+/AngularPracticeProj/appsettings.Development.json
